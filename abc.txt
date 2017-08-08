@@ -1,1 +1,2 @@
-git test file
+git test file first line
+second line committed by command -a
